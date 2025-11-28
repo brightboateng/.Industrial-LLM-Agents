@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "Industrial LLM Agents — dub-l-tap-ai-labs"
+authors:
+  - family-names: Grove
+    given-names: Christopher
+date-released: 2025-11-28
+version: 0.1.0
