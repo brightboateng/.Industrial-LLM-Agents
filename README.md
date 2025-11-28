@@ -1,6 +1,6 @@
 # .Industrial-LLM-Agents
 Industrial LLM agents, prompt safety, and orchestration
-# Industrial LLM Agents — dub-l-tap-ai-labs
+# Industrial LLM Agents — dubLtap-AI-labs
 
 Guardrailed, eval-backed **LLM agents** for industrial ops (aerospace, energy, mining, manufacturing).  
 Built by **Christopher Grove** (Seattle/Tacoma) — voice-over & **broadcast engineering** roots.
